@@ -4,7 +4,7 @@ const EmailWrapper = ({ children }) => {
   return (
     <Email
       lang='ru'
-      title='20 января 2022. ЧТО НЕЛЬЗЯ ПРОПУСТИТЬ!'
+      title='День признаний в любви'
       headStyles="
     @font-face{
       font-display: swap;
